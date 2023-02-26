@@ -1,6 +1,6 @@
 # Hello new friend - I'm Jeremiah  
 
-I am just another millennial Windows System Administrator trying to get buy in this crazy world. Currently, I reside 
+I am just another millennial Windows System Administrator trying to get by in this crazy world. Currently, I reside 
 in Minnesota (USA) where the winters get to -20&deg;F (-29&deg;C) and the summers go to 85&deg;F (30&deg;C).  
 
 I enjoy books, running, hiking, and eating raw cookie dough. What can I say, I am a risk taker! Music and helping others 
