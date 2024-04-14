@@ -1,11 +1,10 @@
-# Hello new friend - I'm Jeremiah  
+# Hello friend - I'm Jeremiah  
 
-I am just another millennial Windows System Administrator trying to get by in this crazy world. Currently, I reside 
-in Minnesota (USA) where the winters get to -20&deg;F (-29&deg;C) and the summers go to 85&deg;F (30&deg;C).  
+I am just another millennial Windows System Administrator navigating this crazy world. Currently based in Minnesota (USA), where the winters plunge to -20&deg;F (-29&deg;C) and the summers go to 85&deg;F (30&deg;C).  
 
-I enjoy books, running, hiking, and eating raw cookie dough. What can I say, I am a risk taker! Music and helping others 
-is what keeps me inspired and alive in this world.  
+When I'm not wrangling servers, you'll find me immersed in books, pounding the pavement on a run, biking in the urban environment, or indulging in the ultimate risk: eating raw cookie dough. 
+Music fuels my soul, and helping others keeps me grounded and motivated.
 
-For work, I maintain Windows Servers, create automations (primarily with PowerShell), and occasionally fix the toughest technology known to mankind (printers).  
+In my professional life, I'm all about maintaining Azure Virtual Desktop, optimizing our Modern Device Management with Intune, and crafting automations (especially with PowerShell).
 
-Thanks for stopping by and I hope you have a wonderful day! 
+Thanks for dropping by, and I hope your day is as wonderful as can be!  
